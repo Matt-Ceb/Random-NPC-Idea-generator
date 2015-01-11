@@ -94,6 +94,10 @@ Right now it's a MSPaint created, pipped d6 showing its "5" side. You can use th
 So, have fun! :)
 Matt Cebulla, 12.01.2015
 
+P.S. If you ever do anything with it, drop me a line!
+Email: m.cebulla@gmail.com
+Twitter: @MattCeb
+
 
 	
     Fname: [
