@@ -150,7 +150,7 @@ Matt Cebulla, 12.01.2015
 		"has a weird fixation with dragons",
 		"distrusts other men",
 		"distrusts women"
-	]}
+	]
 	
 
 
